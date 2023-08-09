@@ -1,0 +1,45 @@
+header {
+    color: rgb(130, 195, 229);
+} 
+nav {
+    color: rgb(255, 255, 255);
+    background-color:  rgb(0, 85, 184);
+    text-shadow: 3px 2px 5px black;
+    text-align: center;
+}
+a {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+section {
+    justify-content: center;
+}
+h1 {
+    color: rgb(130, 195, 229);
+    text-shadow: 3px 2px 5px black;
+    text-align: center;
+}
+p {
+    color: rgb(255, 255, 255);
+}
+h2.special {
+    text-align: center;
+}
+p.special {
+    text-align: center;
+}
+body {
+    background-color:  rgb(0, 85, 184);
+    padding: .5em;
+}
+legend {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+footer {
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 2px 5px black;
+    background-color:  rgb(0, 85, 184);
+    font-weight: bold;
+    text-align: center;
+}
